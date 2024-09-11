@@ -11,4 +11,4 @@ No further library installation needed. Run the videotester.py file to test.
 Pull requests are welcome after forking. For major changes, please open an issue first to discuss what you would like to change.
 
 ## References 
-Thank you Kaggle for providing the dataset
+Thanks to Kaggle for providing the dataset
